@@ -55,12 +55,12 @@ echo '{
       },
       {
         "@type": "/seiprotocol.seichain.dex.MsgPlaceOrders",
-        "creator": "sei1g65zdfxyu3h79pq8ggjdrhs3wcspk483m7ylm6",
+        "creator": "sei-adresiniz",
         "orders": [
           {
             "id": "0",
             "status": "PLACED",
-            "account": "sei1g65zdfxyu3h79pq8ggjdrhs3wcspk483m7ylm6",
+            "account": "sei-adresiniz",
             "contractAddr": "sei14hj2tavq8fpesdwxxcu44rty3hh90vhujrvcmstl4zr3txmfvw9sh9m79m",
             "price": "1.000000000000000000",
             "quantity": "0.000010000000000000",
